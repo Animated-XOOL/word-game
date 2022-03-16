@@ -1,0 +1,29 @@
+body{
+	background-image: url(https://thumbs.dreamstime.com/b/literature-study-stack-books-grey-background-143162184.jpg);
+    background-size: cover;
+}
+
+  .login_div1 , .login_div2 {
+	  background-color: rgb(189, 197, 207);
+	  padding: 10px;
+	  float: none;
+	  font-family: 'Times New Roman', Times, serif;
+	  border-radius: 15px;
+	  border-color: black;
+  }
+
+  #word{
+	  width: 60%;
+  }
+  #word_display{
+	  letter-spacing: 5px;
+  }
+
+  #output{
+	background: rgb(103, 221, 176);
+	border: 10.1px;
+	border-top: 10px solid rgb(106, 163, 170);
+	padding: 10px;
+	float:none;
+	text-align: left;
+  }
